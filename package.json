@@ -1,0 +1,19 @@
+{
+  "name": "namaste-React-by-Aditya",
+  "version": "1.0.0",
+  "description": "akshay saini's course brack",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Kompella/React3007.git"
+  },
+  "author": "Aditya Kompells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-Kompella/React3007/issues"
+  },
+  "homepage": "https://github.com/Aditya-Kompella/React3007#readme"
+}
