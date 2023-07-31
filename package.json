@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Aditya-Kompella/React3007#readme",
   "devDependencies": {
+    "@babel/core": "^7.22.9",
     "parcel": "^2.7.0",
     "process": "^0.11.10"
   },
