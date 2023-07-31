@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom"; // Corrected import statement
+
 const heading1 = React.createElement(
   "h1",
   {
@@ -12,15 +15,13 @@ const heading2 = React.createElement(
   },
   "Heading 2"
 );
-const continer = React.createElement(
+const container = React.createElement(
   "div",
   {
     id: "container",
   },
   [heading1, heading2]
 );
-//2:39:30
-const root = ReactDOM.createRoot(document.getElementById("root"));
 
-//passing the react element into the root element
-root.render(continer);
+// Use ReactDOM.render instead of ReactDOM.createRoot
+ReactDOM.render(container, document.getElementById("root"));
