@@ -1,3 +1,17 @@
+/**
+ * 
+ * HMR - Hot Module Reloading
+ * File Watcher algorithm written in c++
+ * bundling 
+ * minifying
+ * cleaning our code
+ * dev and production builds
+ * Super fast build algorithm
+ * Image optimization
+ * caching while development
+ * 
+ * 
+ */
 import React from "react";
 import ReactDOM from "react-dom"; // Corrected import statement
 
